@@ -33,7 +33,7 @@ loading_messages = [
 # show_spinner=False hides the "Running fetch_poster..." text
 @st.cache_data(show_spinner=False)
 def fetch_poster(movie_id, title):
-    # 🔴 PASTE YOUR API KEY HERE 🔴
+
     api_key = "1d2875cfd1cc5ad4203156560555c9b3"
     
     safe_title = urllib.parse.quote(title)
