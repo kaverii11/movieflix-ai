@@ -13,11 +13,10 @@
 
 ## 📸 Screenshots
 
-| Home Page | Recommendations |
-|:---:|:---:|
-| <img width="440" height="900" src="https://github.com/user-attachments/assets/3df940d1-dde3-460b-bbb8-43e17ee8b575" />
-" | <img width="1436" height="654" alt="Screenshot 2025-12-23 at 16 01 22" src="https://github.com/user-attachments/assets/adb6bb13-37eb-4557-85d2-70371d5af7a6" /> |
----
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/3df940d1-dde3-460b-bbb8-43e17ee8b575" width="48%" />
+  <img src="https://github.com/user-attachments/assets/adb6bb13-37eb-4557-85d2-70371d5af7a6" width="48%" />
+</div>
 
 ## 🧠 How It Works (The "Brain")
 
