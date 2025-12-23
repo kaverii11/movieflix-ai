@@ -14,7 +14,7 @@
 ## 📸 Screenshots
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github.com/user-attachments/assets/3df940d1-dde3-460b-bbb8-43e17ee8b575" width="48%" />
+  <img src="https://github.com/user-attachments/assets/1be766bb-78b2-4cfc-a4e5-0adc41dfcc93" width="48%" />
   <img src="https://github.com/user-attachments/assets/adb6bb13-37eb-4557-85d2-70371d5af7a6" width="48%" />
 </div>
 
